@@ -3,7 +3,7 @@ Developed by:
 - Patrick Salsbury
 
 ## Description
-Adata science project that showcases the Logisistic Regression algorithm from scratch using only NumPy and Pandas while analyzing company bankruptcy data.
+A data science project that showcases the Logisistic Regression algorithm from scratch using only NumPy and Pandas while analyzing company bankruptcy data.
 
 Data set size: 6819 rows x 95 columns.
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
